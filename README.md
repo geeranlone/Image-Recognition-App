@@ -36,7 +36,10 @@ For example, if given just one image of a person, the model can compare it with 
 The model is designed to work with facial image datasets where image pairs are labeled as "same" or "different." This is the training format that allows the model to learn how to compare images effectively.
 
 For this project, I worked with a custom facial image dataset, but the architecture can be easily adapted to other datasets following the same principles.
-
+Dataset Link
+```
+http://vis-www.cs.umass.edu/lfw/lfw.tgz
+```
 ## Installation and Setup
 
 ### Prerequisites
@@ -45,5 +48,6 @@ Before running the code, ensure you have the following dependencies installed. Y
 ### Steps to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Facial-Verification-Siamese.git
-   cd Facial-Verification-Siamese
+   [git clone https://github.com/your-username/Facial-Verification-Siamese.git]
+   (https://github.com/geeranlone/Siamese-Neural-Networks-for-One-shot-Image-Recognition.git)
+   
