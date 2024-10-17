@@ -1,4 +1,4 @@
-## Facial Verification using Siamese Neural Networks
+## Facial Verification
 Welcome to the repository for my Facial Verification System, which is implemented using Siamese Neural Networks. This project is inspired by the research paper, "Siamese Neural Networks for One-shot Image Recognition" by Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov. Below, I explain the key concepts I learned from the paper and how I applied them to develop a facial verification system.
 
 ## Understanding Siamese Networks
